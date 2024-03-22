@@ -4,7 +4,7 @@ import Login from '../auth/LoginForm.vue';
 </script>
 
 <template>
-  <div class="w-full h-screen bg-blue-950 flex">
+  <main class="w-full h-screen bg-blue-950 flex">
     <div class="lg:w-1/2 hidden lg:flex justify-center items-center">
       <img src="../../assets/form-img.png" alt="lady smiling" class="w-7/12">
     </div>
@@ -14,7 +14,7 @@ import Login from '../auth/LoginForm.vue';
         <Login />
       </div>
     </div>
-  </div>
+  </main>
 </template>
 
 <style scoped>
