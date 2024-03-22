@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Login from "@/views/auth/login.vue"
+import Login from "@/views/auth/Login.vue"
 import Upload from "@/views/Upload.vue"
 
 const routes = [

@@ -1,9 +1,10 @@
 <script setup>
-import FormLayout from './components/layout/FormLayout.vue'
+// import FormLayout from './components/layout/FormLayout.vue'
 </script>
 
 <template>
-  <FormLayout />
+  <!-- <FormLayout /> -->
+  <router-view></router-view>
 </template>
 
 <style scoped>

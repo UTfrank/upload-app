@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue'
-import Login from '../auth/Login.vue';
+import Login from '../auth/LoginForm.vue';
 </script>
 
 <template>
